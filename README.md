@@ -5,9 +5,9 @@ Contains text file with all the tools/subjects learned over the placement.
 
 1. Used Jest and Enzyme to write basic unit/integration tests.
 
-[Link to Jest Docs]https://jestjs.io/docs/getting-started
+[Link to Jest Docs](https://jestjs.io/docs/getting-started)
 
-[Link to Enzyme Docs]https://enzymejs.github.io/enzyme/docs/api/
+[Link to Enzyme Docs](https://enzymejs.github.io/enzyme/docs/api/)
 
 - Used Mocking technique to simulate components and functions
 
@@ -16,6 +16,6 @@ Contains text file with all the tools/subjects learned over the placement.
 
 3. Hoc's
 
-[Link to docs]https://reactjs.org/docs/higher-order-components.html
+[Link to docs](https://reactjs.org/docs/higher-order-components.html)
 
 -useTracker used to continuously supply components with data from db
