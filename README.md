@@ -9,10 +9,10 @@ Contains text file with all the tools/subjects learned over the placement.
 
 [Link to Enzyme Docs](https://enzymejs.github.io/enzyme/docs/api/)
 
-- Used Mocking technique to simulate components and functions
+Used Mocking technique to simulate components and functions
 
 2. LifeCycle Methods
-- useRef (func component) behaves like componentDidUpdate/component...etc. Triggers when it detects state or prop change.
+useRef (func component) behaves like componentDidUpdate/component...etc. Triggers when it detects state or prop change.
 
 3. Hoc's
 
