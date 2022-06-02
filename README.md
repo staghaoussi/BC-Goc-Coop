@@ -9,7 +9,7 @@ Contains text file with all the tools/subjects learned over the placement.
 
     [Link to Enzyme Docs](https://enzymejs.github.io/enzyme/docs/api/)
 
-    Used Mocking technique to simulate components and functions. To mock a component use __mocks__ folder. [Link to stack example](https://stackoverflow.com/questions/44403165/using-jest-to-mock-a-react-component-with-props)
+    Used Mocking technique to simulate components and functions. To mock a component use (__mocks__) folder. [Link to stack example](https://stackoverflow.com/questions/44403165/using-jest-to-mock-a-react-component-with-props)
     
 
 2. LifeCycle Methods
